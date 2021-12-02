@@ -1,3 +1,7 @@
+# Bilibili
+[专题3：基于Python的GIS开发（七）](https://www.bilibili.com/video/BV14q4y1z7Cx/)
+
+
 # References
 1.《Python地理空间分析指南（第2版）》 Joel Lawhead著，邓世超译
 [https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition](https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Third-Edition)
